@@ -1,0 +1,8 @@
+rootProject.name = 'hibs'
+include 'hibs-core'
+include 'hibs-web'
+include 'hibs-api'
+include 'hibs-tcp'
+include 'hibs-batch'
+include 'hibs-enc'
+include 'hibs-pub'
